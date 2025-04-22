@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning **K6 performance testing and API automation with Postman**
 
 - 👯 I’m looking to collaborate on **Cypress automation project**
-- - 👯 I’m looking to collaborate on **Playwright automation project**
+- 👯 I’m looking to collaborate on **Playwright automation project**
 
 - 🤝 I’m working with **Cypress Automation framework**
 
